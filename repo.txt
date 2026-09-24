@@ -1,1 +1,11 @@
+Repository GitHub:
+https://github.com/gibranyogananda/TODO-LARAVEL
 
+Branch:
+main
+
+Nama:
+Gibran Yogananda
+
+Project:
+Aplikasi ToDo Laravel
